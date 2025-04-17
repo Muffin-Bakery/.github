@@ -47,4 +47,4 @@ We don’t believe in rigid frameworks. Instead, we embrace the principles of:
 
 You'll find room to experiment, grow, and drive decisions—whether you’re deep in code, collaborating on product strategy, or scaling our infrastructure.
 
-Check out our [careers page](https://www.muffin.it/).
+Check out our [careers page](https://getmuffin.io/lavora-con-noi/).
